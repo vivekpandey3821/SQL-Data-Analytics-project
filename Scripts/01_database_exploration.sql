@@ -7,8 +7,8 @@ Purpose:
     - To inspect the columns and metadata for specific tables.
 
 Table Used:
-    - INFORMATION_SCHEMA.TABLES
-    - INFORMATION_SCHEMA.COLUMNS
+    - INFORMATION_SCHEMA.TABLES.
+    - INFORMATION_SCHEMA.COLUMNS.
 ===============================================================================
 */
 
